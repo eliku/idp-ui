@@ -1,0 +1,23 @@
+import React from "react";
+import './../style.module.css';
+
+const Administration = () => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="15"
+      height="15"
+      viewBox="0 0 15 15"
+    >
+      <g fill="#ADADAD">
+        <path d="M5.648 5h5.602v.934H5.648zm0 0M5.648 6.867h5.602v.934H5.648zm0 0M5.648 8.734h5.602v.934H5.648zm0 0M4.215 5a.466.466 0 10.002.932A.466.466 0 004.215 5zm0 0M4.215 6.867a.466.466 0 10.002.932.466.466 0 00-.002-.932zm0 0M4.215 8.734a.466.466 0 10.002.932.466.466 0 00-.002-.932zm0 0"></path>
+        <path
+          fillRule="evenodd"
+          d="M13.75 1.25H1.25v12.5h12.5zM12.5 2.5h-10v10h10zm0 0"
+        ></path>
+      </g>
+    </svg>
+  );
+}
+
+export default Administration;
