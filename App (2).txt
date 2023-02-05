@@ -1,0 +1,10 @@
+import './App.css';
+import AppWrapper from './components/app-wrapper/index.js';
+
+function App() {
+  return (
+     <AppWrapper/>
+  );
+}
+
+export default App;
